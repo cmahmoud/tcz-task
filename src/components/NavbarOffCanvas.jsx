@@ -16,10 +16,10 @@ export default function NavbarOffCanvas() {
                                 <a href="#about">about</a>
                             </li>
                             <li>
-                                <a href="#about">Services</a>
+                                <a href="#services">Services</a>
                             </li>
                             <li>
-                                <a href="#about">Portfolio</a>
+                                <a href="#portfolio">Portfolio</a>
                             </li>
                             <li>
                                 <a href="#about">Address</a>
